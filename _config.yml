@@ -55,3 +55,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-analytics
+  - jekyll-seo-tag

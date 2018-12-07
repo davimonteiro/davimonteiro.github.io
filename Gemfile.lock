@@ -247,6 +247,7 @@ DEPENDENCIES
   jekyll-analytics
   jekyll-feed
   jekyll-paginate
+  jekyll-seo-tag
 
 BUNDLED WITH
    1.17.1
