@@ -1,0 +1,57 @@
+# Site settings
+
+# Setup
+title:               Davi Monteiro
+tagline:             'Hanc marginis exiguitas non caperet'
+description:         'Ph.D student 🎓 <br> Software engineer 💻 <br> Cryptocurrency enthusiast ⛏️'
+url:                 http://www.davimonteiro.com.br # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:             '' # the subpath of your site, e.g. /blog
+
+# Pagination Settings
+# jekyll-paginate (old one)
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+
+# jekyll-paginate-v2
+# pagination:
+#   enabled: true
+#   per_page: 3
+#   permalink: '/page/:num/'
+#   title: ' - page :num'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# Produces a cleaner folder structure when using categories
+# permalink: /:year/:month/:title.html
+
+# Google Analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-62517739-1
+    anonymizeIp: true
+
+# About/contact
+author:
+  name: Davi Monteiro
+  url: https://twitter.com/davimonteiroce
+  email: davimonteiro.ce@gmail.com
+
+# Pages
+blog: '/blog'
+background: '/background'
+activities: '/activities'
+publications: '/publications'
+projects: '/projects'
+awards: '/awards'
+about: '/about'
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-analytics
