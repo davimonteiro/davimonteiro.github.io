@@ -16,7 +16,7 @@ permalink: /background/
 
 
 2016 - 2018
-:   **MBA in Project Management** from from University Center Estácio of Ceará, CE, Fortaleza, Brazil<br>
+:   **MBA in Project Management** from University Center Estácio of Ceará, CE, Fortaleza, Brazil<br>
     *MBA dissertation title: "Project Management Using Multi-agent Systems-Based Approaches: A Systematic Mapping" (in Portuguese)*<br>
     *Supervisor: Prof. Pitágoras Graça Martins*
 

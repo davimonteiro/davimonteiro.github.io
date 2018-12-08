@@ -11,7 +11,7 @@ July 2016
 :   **Best Paper Award** *at in the 8th. Brazilian Symposium on Ubiquitous and Pervasive Computing (SBCUP),  Brazilian Computer Society (SBC)*   
 
 April 2016
-:   **Scholarship for undergraduate students with an outstanding curriculum** *Award: fully funded scholarship for a graduate course*
+:   **Best undergraduate student** *Award: fully funded scholarship for a graduate course*
 
 2014.1 - 2015.1
 :   **Brazil Scientific Mobility Program (BSMP)** *fully funded scholarship recipient*

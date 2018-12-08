@@ -9,10 +9,9 @@ Davi Monteiro is currently a Ph.D. student in Computer Science from Lero Irish S
 - Self-adaptive systems
 - Digital forensics
 
-He is currently member of
+He is currently a member of the research following groups:
 - [Software Engineering and Distributed Systems Group (GESAD)](http://gesad.uece.br)
 - [Security, Privacy, Adaptation and Requirements Engineering Group at Lero (SPARE)](http://spare.lero.ie)
-
 
 Profiles at
 [<i class="fas fa-envelope"></i>](mailto:davi.monteiro@lero.ie)
@@ -24,4 +23,4 @@ Profiles at
 [<i class="fab fa-facebook"/>](https://www.facebook.com/davimonteiroce)
 [<i class="fab fa-instagram"/>](https://www.instagram.com/davimonteiroce)
 
-For more information about me, you may use the left-side menu.
+For more information about him, you may use the left-side menu.

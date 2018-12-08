@@ -3,7 +3,7 @@
 # Setup
 title:               Davi Monteiro
 tagline:             'Hanc marginis exiguitas non caperet'
-description:         'Ph.D student 🎓 <br> Software engineer 💻 <br> Cryptocurrency enthusiast ⛏️'
+description:         'Ph.D. student 🎓 <br> Software engineer 💻 <br> Cryptocurrency enthusiast ⛏️'
 url:                 https://davimonteiro.com.br # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:             '' # the subpath of your site, e.g. /blog
 
