@@ -20,7 +20,9 @@ Profiles at
 [<i class="ai ai-lattes"/>](http://lattes.cnpq.br/3249336696728835)
 [<i class="ai ai-orcid"/>](https://orcid.org/0000-0002-7313-5825)
 [<i class="ai ai-google-scholar"/>](https://scholar.google.com.br/citations?user=xQEUwugAAAAJ)
-[<i class="fab fa-facebook"/>](https://www.facebook.com/davimonteiroce)
-[<i class="fab fa-instagram"/>](https://www.instagram.com/davimonteiroce)
+[<i class="fab fa-facebook"/>](https://www.facebook.com/davimonteirob)
+[<i class="fab fa-instagram"/>](https://www.instagram.com/davimonteirob)
+[<i class="fab fa-twitter"/>](https://www.twitter.com/davimonteirob)
+
 
 For more information about him, you may use the left-side menu.

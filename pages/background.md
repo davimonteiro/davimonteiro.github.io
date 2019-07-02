@@ -7,7 +7,7 @@ permalink: /background/
 <br>
 2018 - current
 :   **Ph.D. in Computer Science** from Lero Irish Software Research Center and University of Limerick, Limerick, Ireland<br>
-    *Supervisor: Prof. Bashar Nuseibeh*
+    *Supervisor: Prof. Bashar Nuseibeh, Prof. Andrea Zisman, and Prof. Yijun Yu*
 
 2016 - 2018
 :   **M.Sc. in Computer Science** from State University of Ceará (UECE), CE, Fortaleza, Brazil<br>

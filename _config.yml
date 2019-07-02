@@ -8,23 +8,8 @@ url:                 https://davimonteiro.com.br # the base hostname & protocol 
 baseurl:             '' # the subpath of your site, e.g. /blog
 
 # Pagination Settings
-# jekyll-paginate (old one)
 paginate: 5
 paginate_path: "/blog/page:num/"
-
-
-# jekyll-paginate-v2
-# pagination:
-#   enabled: true
-#   per_page: 3
-#   permalink: '/page/:num/'
-#   title: ' - page :num'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
-
-# Produces a cleaner folder structure when using categories
-# permalink: /:year/:month/:title.html
 
 # Google Analytics
 jekyll_analytics:
@@ -35,8 +20,8 @@ jekyll_analytics:
 # About/contact
 author:
   name: Davi Monteiro
-  url: https://twitter.com/davimonteiroce
-  email: davimonteiro.ce@gmail.com
+  url: https://twitter.com/davimonteirob
+  email: davi.monteiro@lero.ie
 
 # Pages
 blog: '/blog'
@@ -46,7 +31,6 @@ publications: '/publications'
 projects: '/projects'
 awards: '/awards'
 about: '/about'
-
 
 # Build settings
 markdown: kramdown
