@@ -25,31 +25,17 @@ Lotus@Runtime requires the following dependencies:
 ### Download and Setup
 Direct links to download the Lotus@Runtime source code and the exemplars:
 
-  - [Lotus@Runtime and the exemplars workspace](https://www.dropbox.com/s/gdq3nvxru2xnkn1/workspace-exemplar.zip)
+  - [Lotus@Runtime and the exemplars workspace](http://drops.dagstuhl.de/opus/volltexte/2017/7145/artifact/DARTS-3-1-7-artifact-d3c770ee9a970bb96b152ba72dde6120.tgz)
 
   - [Lotus@Runtime source code](https://github.com/davimonteiro/lotus-runtime/archive/master.zip)
 
-  - [TAS + Lotus@Runtime executable](https://www.dropbox.com/s/6bn3a9jti49ujmc/tas.zip)
-
-  - [TPA + Lotus@Runtime executable](https://www.dropbox.com/s/u57ium1j7kvwo71/tpa.zip)
-
-
 ##### Instructions to run Lotus@Runtime + TAS
 
-Download the [tas.zip](https://www.dropbox.com/s/6bn3a9jti49ujmc/tas.zip) archive and unzip it. The TAS executable jar file named tas-jfx.jar is located inside the subdirectory created. The file can be executed by typing the following command at the command prompt:
-
-``` sh
-$ java -jar tas-jfx.jar
-```
-
+Download the [exemplars workspace](http://drops.dagstuhl.de/opus/volltexte/2017/7145/artifact/DARTS-3-1-7-artifact-d3c770ee9a970bb96b152ba72dde6120.tgz) and open it using Eclipse IDE. The TAS main class (MainGui.java) is located on the TAS_gui project.
 
 ##### Instructions to run Lotus@Runtime + TPA
 
-Download the [tpa.zip](https://www.dropbox.com/s/u57ium1j7kvwo71/tpa.zip) archive and unzip it. The TPA executable jar file named travelapp_gui-jfx.jar is located inside the subdirectory created. The file can be executed by typing the following command at the command prompt:
-
-```sh
-java -jar travelapp_gui-jfx.jar
-```
+Download the [exemplars workspace](http://drops.dagstuhl.de/opus/volltexte/2017/7145/artifact/DARTS-3-1-7-artifact-d3c770ee9a970bb96b152ba72dde6120.tgz) and open it using Eclipse IDE. The TPA main class (MainGui.java) is located on the travelapp_gui project.
 
 
 ### Tele Assistance System (TAS)
