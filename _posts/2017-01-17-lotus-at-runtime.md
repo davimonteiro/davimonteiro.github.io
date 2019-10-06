@@ -40,7 +40,7 @@ Download the [exemplars workspace](http://drops.dagstuhl.de/opus/volltexte/2017/
 
 ### Tele Assistance System (TAS)
 
-The Tele Assistance System is a service-based system that provides health support to chronic condition sufferers within the comfort of their homes [1]. In the original concept, the TAS uses a wearable device to take periodical measurements of the patient’s vital parameters and analyze them through medical services. After the analysis, the result may trigger the invocation of an alarm service to call an ambulance, or the invocation of a pharmacy service to deliver a medication to the patient’s house.
+The Tele Assistance System is a service-based system that provides health support to chronic condition sufferers within the comfort of their homes [1]. In the original concept, the TAS uses a wearable device to take periodical measurements of the patient’s vital parameters and analyze them through medical services. After the analysis, the result may trigger the invocation of an alarm service to call an ambulance, or the invocation of a pharmacy service to deliver medication to the patient’s house.
 
 The system is composed of the following three abstract services:
 
@@ -53,7 +53,7 @@ To configure the Lotus@Runtime in the TAS, we have adopted the strategy to monit
 - (P1) the probability of a failure after the alarm service should be less than 20%, represented by reaching state 5 from state 0.  
 - (P2) the probability of a failure after the pharmacy service should be less than 10%, represented by reaching state 11 from state 0.
 
-The probabilistic LTS model, as illustrated in figure below, was created using the LoTuS tool and represents the system behavior with their services. The model is based on the DTMC model presented by [2].
+The probabilistic LTS model, as illustrated in the figure below, was created using the LoTuS tool and represents the system behavior with their services. The model is based on the DTMC model presented by [2].
 
 ![alt text](https://raw.githubusercontent.com/davimonteiro/lotus-runtime/master/src/main/resources/images/tas_model.png "Tele Assistance System Model")
 
@@ -88,9 +88,9 @@ The TPA model is illustrated in the Figure above, which was based on the DTMC mo
 
 ##### TAS/TPA Configuration Panel
 
-The left panel shows the concrete services that are available.  A green mark means the workflow uses the service; a red mark means that the service is not used by the workflow. The glasses symbols allow inspecting the service description as well as the service profile of each service and adapting the parameters dynamically.
+The left panel shows the concrete services that are available. A green mark means the workflow uses the service; a red mark means that the service is not used by the workflow. The glasses symbols allow inspecting the service description as well as the service profile of each service and adapting the parameters dynamically.
 
-The right panel shows the definition of the TAS workflow. Both a graphical representation and a specification with to the ReSeP workflow definition language are available.
+The right panel shows the definition of the TAS workflow. Both a graphical representation and a specification with the ReSeP workflow definition language are available.
 
 ###### TAS/TPA Configuration Bar  
 
@@ -98,7 +98,7 @@ The Open button allows opening a workflow (Open Workflow item). The Configure bu
 
 ##### TAS/TPA Experimentation Panel
 
-The left panel shows the input profile that can be used to test the loaded configuration (i.e., workflow with available concrete services). A green mark means that the profile is available but currently not executed; a red mark means the profile is executing. The glasses symbols allow inspecting the input profiles and adapting the parameters dynamically. Both a text and table for are available. The green triangle buttons on the right-hand side are used to run the corresponding input profile (parallel runs are not supported). Clicking the red mark stops the execution of the running input profile.
+The left panel shows the input profile that can be used to test the loaded configuration (i.e., workflow with available concrete services). A green mark means that the profile is available but currently not executed; a red mark means the profile is executing. The glasses symbols allow inspecting the input profiles and adapting the parameters dynamically. Both a text and table are available. The green triangle buttons on the right-hand side are used to run the corresponding input profile (parallel runs are not supported). Clicking the red mark stops the execution of the running input profile.
 
 The right panel shows three graphs with tables. When the execution of the input profile completes, the results will be shown in the graphs and overview tables. The Reliability graph shows on the X-axis the series of invocations of the assistance service and on the Y-axis the concrete services that were invoked. Short green vertical lines indicate that invocations were successful; longer red vertical lines indicate failed invocations. The Performance graph shows on the X-axis the invocations of the assistance service and on the Y-axis the response time of the concrete services that were invoked. The subsequent service executions are represented with stocked collared bars. Finally, the Cost graph shows the accumulated cost for the invocations performed by the input profile. The tables summarize the results.
 
@@ -111,6 +111,14 @@ The Save button allows saving the results of a run (Save Run) as a CSV file, the
 The buttons No Adaptation and Simple Adaptation allow you to select between the execution of services invocations without and with adaptation. Simple Adaptation removes failed services from the set of available services.
 
 The progress bar shows the progress of an ongoing execution of an input profile.
+
+###### More Information
+
+You can check more information at the following links:
+- http://drops.dagstuhl.de/opus/volltexte/2017/7145/
+- https://ieeexplore.ieee.org/document/7968129
+
+###### References
 
 [1]:<https://people.cs.kuleuven.be/~danny.weyns/software/TAS/>
 [2]:<https://www-users.cs.york.ac.uk/~raduc/COVE/>
