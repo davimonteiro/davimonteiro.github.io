@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Lotus@Runtime: A Tool for Runtime Monitoring and Verification of Self-adaptive Systems"
-date:   2017-01-17 11:43:00
-categories: seams2017
+date:   2017-01-17
+categories: conferences
 published: true
 ---
 
